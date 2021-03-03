@@ -1,9 +1,10 @@
+This is the ultimate Bootstrap 4.4.1 starter for developers. A boilerplate with Gulp4, cross-env, Sass, sourcemaps, concat, CSS & HTML minification, uglify, image optimization, template partials, BrowserSync.
+Basic is a responsive A Bootstrap 4.4.1 Boilerplate with Gulp 4, compatible with Bootstrap 4.4.1, free for personal and commercial use.
 
-# Bootstrap 4.4.1 Boilerplate - Basic
+## Install
 
-This is a Bootstrap 4.4.1 Boilerplate with Gulp 4+. Sass, browser-sync.
+`yarn install && yarn add gulp`
 
-[Documentation](https://bootstrapstarter.com/bootstrap-templates/template-basic-bootstrap-html/)
+## Start server
 
-![bootstrapstarter](src/img/screenshot.jpg)
-
+`yarn gulp serve`
